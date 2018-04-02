@@ -1,0 +1,28 @@
+{
+  "name": "Web02BootStrap",
+  "authors": [
+    "jassonqc <jassonquiroga@gmail.com>"
+  ],
+  "description": "Pagina Turismo Puno",
+  "main": "",
+  "keywords": [
+    "turismo",
+    "lago",
+    "chullpas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "bootswatch": "^4.0.0+1",
+    "jquery": "3.2.1",
+    "@fortawesome/fontawesome": "^5.0.9"
+  }
+}
